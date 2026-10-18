@@ -1,0 +1,11 @@
+{
+  "org": "EpistasisLab",
+  "repo": "tpot",
+  "versions": [
+    {
+      "commit": "1bca6c6a51a79dc7370fbd2a8864a561fc5d7529",
+      "tag": "",
+      "parsed_at": "2026-10-18T13:53:37.961673+00:00"
+    }
+  ]
+}
