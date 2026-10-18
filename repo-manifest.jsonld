@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/EpistasisLab/tpot/commit/1bca6c6a51a79dc7370fbd2a8864a561fc5d7529",
       "git:hexsha": "1bca6c6a51a79dc7370fbd2a8864a561fc5d7529",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/EpistasisLab/tpot/commit/08e9db82fa4d5c7436c2246ef0affe72ec41fd1c",
